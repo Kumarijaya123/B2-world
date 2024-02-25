@@ -1,0 +1,130 @@
+.reach-container{
+    width: 98vw;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.reachWrapper{
+    width: 70%;
+    height: 70%;
+   display: flex;
+}
+
+.reachLeft {
+    margin-top: 40px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+
+}
+.reachRight{
+    margin-top: -5%;
+    flex: 0.5;
+    display: flex;
+    border-radius: 25px;
+    flex-direction: column;
+    box-shadow: 0 5px 3px rgba(76, 74, 74, 0.3);
+}
+.reachLogo{
+    font-size: 28px;
+    font-weight: 700;
+  
+    margin-bottom: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.reachDesc{
+    margin-top: 25px;
+    letter-spacing: 0.5px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.email{
+    margin-top: 30px;
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.email-link {
+    color: black;
+    text-decoration: none;
+}
+
+.contact-icons{
+    margin-top: 20px;
+    display: flex;
+    gap: 35px;
+    
+}
+
+.contact-icons i {
+    font-size: 45px; 
+    color: rgb(231, 190, 8);
+}
+
+.reachBox{
+    height: 550px;
+    width: 480px;
+    padding: 15px;
+    background-color: rgb(234, 240, 245);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.reach-name{
+   margin-top: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    margin-right: 72%;
+}
+
+
+.reachBox {
+    height: 550px;
+    width: 480px;
+    padding: 15px;
+    background-color: rgb(234, 240, 245);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center content horizontally */
+}
+
+
+.reachInput {
+    margin-top: -30px; /* Adjust spacing between input boxes */
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    padding-left: 20px;
+    width: 400px;
+    outline: none;
+}
+
+.reachInput1 {
+    margin-top: -30px; /* Adjust spacing between input boxes */
+    height: 140px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    padding-left: 20px;
+    width: 400px;
+     padding-top: 10px;  
+    outline: none;
+}
+
+  .reach-in{
+    margin-top: 50px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+  }
+
+ 
